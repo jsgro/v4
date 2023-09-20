@@ -4,7 +4,7 @@
 # https://help.github.com/articles/repository-metadata-on-github-pages/ explains
 # the GitHub-specific variables available to Jekyll.
 #===============================================================================
-
+theme: slate
 #--------------------------------------------------------------------------------
 # Values for this lesson - EDIT THIS SECTION.
 #
@@ -21,7 +21,7 @@ domain: "http://v4.swcarpentry-carpentry.org"
 baseurl: ""
 
 # Lessons's GitHub repository.
-github_repo   : "http://github.com/swcarpentry/v4"
+github_repo   : "http://github.com/jsgro/v4"
 
 # Logo image (white with transparent background to stand out on blue background)
 logo: "swc-logo-white.svg"
