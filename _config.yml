@@ -14,14 +14,16 @@ theme: slate
 
 # Website domain (no trailing slash).
 # E.g., http://yourname.github.io
-domain: "http://v4.swcarpentry-carpentry.org"
+# domain: "http://v4.swcarpentry-carpentry.org"
+domain: "http://jsgro.github.io"
 
 # Base URL below the domain (no trailing slash).
 # This will usually be the lesson slug with a leading slash.
 baseurl: ""
 
-# Lessons's GitHub repository.
-github_repo   : "http://github.com/jsgro/v4"
+# Lessons's GitHub repository. 
+# github_repo   : "http://github.com/jsgro/v4"
+github_repo   : "http://github.com/swcarpentry/v4"
 
 # Logo image (white with transparent background to stand out on blue background)
 logo: "swc-logo-white.svg"
