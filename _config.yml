@@ -6,7 +6,8 @@
 #===============================================================================
 # ADD THEME
 #theme: Slate
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 #--------------------------------------------------------------------------------
 # Values for this lesson - EDIT THIS SECTION.
 #
