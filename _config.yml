@@ -24,8 +24,8 @@ domain: "http://jsgro.github.io"
 baseurl: ""
 
 # Lessons's GitHub repository. 
-# github_repo   : "http://github.com/jsgro/v4"
-github_repo   : "http://github.com/swcarpentry/v4"
+github_repo   : "http://github.com/jsgro/v4"
+# github_repo   : "http://github.com/swcarpentry/v4"
 
 # Logo image (white with transparent background to stand out on blue background)
 logo: "swc-logo-white.svg"
